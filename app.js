@@ -4,4 +4,4 @@ let gender = "Male"
 
 console.log(`My name is ${name}, Age is ${age}, Gender is ${gender}`);
 
-console.log("Hello Testing"
+console.log("Hello Testing")
