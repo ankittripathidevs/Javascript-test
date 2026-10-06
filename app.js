@@ -1,7 +1,4 @@
-let name = "Ankit Tripathi";
-let age = 26;
-let gender = "Male"
+let name = "Ankit;
+let address = "Delhi;
 
-console.log(`My name is ${name}, Age is ${age}, Gender is ${gender}`);
-
-console.log("Hello Testing")
+console.log(`Hello My Name is ${name}, I live in ${address}`);
